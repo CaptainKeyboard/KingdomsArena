@@ -1,0 +1,15 @@
+name: Kingdoms_arena
+version: '${project.version}'
+main: net.velion.kingdoms_arena.Kingdoms_arena
+api-version: 1.17
+softdepend: [ HolographicDisplays ]
+commands:
+  join:
+    description: join arena
+    usage: /<command>
+  start:
+    description: start arena
+    usage: /<command>
+  order:
+  sb:
+  watchItem:
